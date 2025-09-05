@@ -110,7 +110,8 @@ Gemini responde con información más robusta.
 
 - Preguntar: “¿Quién desarrolló la primera versión de la World Wide Web y en qué año?”.
 
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/776558b6-1d93-4e14-87dc-75c0b80baed2" />
+<img width="655" height="909" alt="image" src="https://github.com/user-attachments/assets/d0c852f0-6b28-4e5b-9064-d8eebe563e4f" />
+
 
 
 ---
