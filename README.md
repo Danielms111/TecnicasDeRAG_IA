@@ -35,15 +35,12 @@ Para correr los ejemplos en **Google Colab**, solo necesitas:
 
 ## 📂 Estructura del repositorio
 📦 RAG-Gemini-Examples
-┣ 📂 data # Documentos de prueba (.txt)
+┣ 📂 Docuemntos # Documentos de prueba (.txt)
 ┃ ┣ cuantica.txt
 ┃ ┣ historia_colombia.txt
 ┃ ┣ historia_internet.txt
 ┃ ┣ innovadores.txt
-┣ 📂 notebooks # Ejemplos en Google Colab
-┃ ┣ BasicRAG.ipynb
-┃ ┣ GraphRAG.ipynb
-┃ ┣ FusionRAG.ipynb
+┣ 📓 Tecnicas_De_Rag # Ejemplos en Google Colab
 ┣ README.md # Este archivo
 
 
