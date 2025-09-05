@@ -132,7 +132,7 @@ Los estudiantes también pueden subir sus propios documentos para experimentar.
 
 ---
 
-##⚡ Cómo usar los ejemplos
+## ⚡ Cómo usar los ejemplos
 
 1. Abrir el notebook correspondiente en Google Colab.
 
