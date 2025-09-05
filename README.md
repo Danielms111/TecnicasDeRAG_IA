@@ -35,7 +35,7 @@ Para correr los ejemplos en **Google Colab**, solo necesitas:
 
 ## 📂 Estructura del repositorio
 📦 RAG-Gemini-Examples
-┣ 📂 Docuemntos # Documentos de prueba (.txt)
+┣ 📂 Documentos # Documentos de prueba (.txt)
 ┃ ┣ cuantica.txt
 ┃ ┣ historia_colombia.txt
 ┃ ┣ historia_internet.txt
